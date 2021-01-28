@@ -1,6 +1,0 @@
-// ternary operator
-{loading ? <h1>Loading...</h1> : null } -> if loading is true then show Loading..., otherwise don't show anything
-{showName && name} -> (&& used for if check if it doesn't have else) if showName is true then display the object name
-
-//prop types
- are type checking, will tell if the prop should be a string, array, number or an object or anything like that
